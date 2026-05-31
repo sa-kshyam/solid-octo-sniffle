@@ -34,6 +34,8 @@ body {
     font-size: 18px;
     color: #001e4d;
     font-weight: 600;
+    padding: 5px;
+    margin-bottom: 5px;
 }
 
 .btn {
@@ -42,18 +44,22 @@ body {
     font-weight: 500;
     width: 100%;
     border: 1px solid #222;
-    padding: 10px;
-    margin: 10px o;
+    padding: 15px;
+    margin-bottom: 15px ;
     text-align: left;
     border-radius: 4px;
     cursor: pointer;
     transition: all 0.3s;
+    
 }
 
-.btn:hover {
+.btn:hover:not([disabled]) {
     background: #222;
     color: #fff;
 } 
+.btn:disabled{
+    cursor: no-drop;
+}
 
 #next-btn {
     background: #001e4d ;
@@ -68,3 +74,10 @@ color: #fff;
     display: none;
 }
 
+.correct{
+    background: #9aeabc;
+}
+
+.incorrect{
+    background: #ff9393;;
+}
