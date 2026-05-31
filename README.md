@@ -5,7 +5,7 @@ A clean, responsive, and interactive multiple-choice Quiz Web Application built 
 
 This application dynamically renders general knowledge trivia questions, tracks user selections in real-time, displays immediate color-coded feedback for correct or incorrect answers, and tallies the final score at the end of the session.
 
----
+--- LIVE LINK = 
 
  Features
 
