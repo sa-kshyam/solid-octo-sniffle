@@ -4,8 +4,7 @@
 A clean, responsive, and interactive multiple-choice Quiz Web Application built using pure HTML5, CSS3, and vanilla JavaScript. There are currently only 14 questions i will expand them in future.
 
 This application dynamically renders general knowledge trivia questions, tracks user selections in real-time, displays immediate color-coded feedback for correct or incorrect answers, and tallies the final score at the end of the session.
-
---- LIVE LINK = 
+# LIVE LINK - https://iridescent-kulfi-3e8b4b.netlify.app/
 
  Features
 
